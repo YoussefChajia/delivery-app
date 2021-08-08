@@ -1,0 +1,23 @@
+{
+  "background": "https://images.unsplash.com/photo-1476718406336-bb5a9690ee2a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+  "comments": {
+    "0": "Superbe plat, je le recommande",
+    "1": "Un bon prix et un bon repas",
+    "2": "Je vais certainement ajouter ce plat à mes favoris"
+  },
+  "description": "Lorem Ipsum is simply dummy text of the printing and type industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type.",
+  "favorites": {
+    "0": ""
+  },
+  "images": {
+    "0": "https://images.unsplash.com/photo-1476718406336-bb5a9690ee2a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+    "1": "https://images.unsplash.com/photo-1541095441899-5d96a6da10b8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+    "2": "https://images.unsplash.com/photo-1553696836-03510978653f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80"
+  },
+  "name": "Autumn Soup",
+  "orders": {
+    "0": ""
+  },
+  "price": 130,
+  "review": 3.5
+}
