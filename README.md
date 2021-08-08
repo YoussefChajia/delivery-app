@@ -1,5 +1,6 @@
-The app design of this app is done by me, Youssef Chajia
+The app design of this app is done by me, Youssef Chajia using Adobe XD
 
+The app is made using Flutter and Firebase
 
 Here is a video of the app in action :
 
